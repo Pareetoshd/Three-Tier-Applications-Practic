@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/f760d749-b4a2-4987-8344-7ff3dad3d045)
+
+
 # Three-Tier-Applications-Practice
 
 🚀 I completed Project of AWS Cloud on, A Building a Scalable Three-Tier Application on AWS ☁
